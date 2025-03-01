@@ -1,4 +1,4 @@
-#All India Schilarship
+#All India Scholarship 
 <!DOCTYPE html>
 <html lang="en">
 <head>
