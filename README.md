@@ -1,4 +1,4 @@
-# Scholarship-prank
+#All India Schilarship
 <!DOCTYPE html>
 <html lang="en">
 <head>
